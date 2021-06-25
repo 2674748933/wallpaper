@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">动态壁纸</string>
+    <string name="setWallPaper">设置壁纸</string>
+    <string name="clear_wallpaper">清除壁纸设置</string>
+</resources>
